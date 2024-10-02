@@ -16,7 +16,7 @@ class Solution {
             currMax = Math.max(nums[i], Math.max(currMin * nums[i], temp));
             currMin = Math.min(nums[i], Math.min(currMin * nums[i], temp));
 
-            ans = Math.max(ans, Math.max(currMax, currMin));
+            ans = Math.max(ans, currMax);
         }
 
         return ans;
