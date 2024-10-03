@@ -6,12 +6,34 @@
 | ------- |
 | [0001-two-sum](https://github.com/nigamkartik96/general-questions/tree/master/0001-two-sum) |
 | [0152-maximum-product-subarray](https://github.com/nigamkartik96/general-questions/tree/master/0152-maximum-product-subarray) |
+| [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nigamkartik96/general-questions/tree/master/0001-two-sum) |
+| [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/nigamkartik96/general-questions/tree/master/0152-maximum-product-subarray) |
+## String
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
+## Depth-First Search
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
+## Union Find
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
