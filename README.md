@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nigamkartik96/general-questions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nigamkartik96/general-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nigamkartik96/general-questions/tree/master/0152-maximum-product-subarray) |
 | [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
 ## Hash Table
@@ -15,6 +16,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nigamkartik96/general-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nigamkartik96/general-questions/tree/master/0152-maximum-product-subarray) |
 ## String
 |  |
