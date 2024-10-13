@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nigamkartik96/general-questions/tree/master/0001-two-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/nigamkartik96/general-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
 ## Dynamic Programming
 |  |
@@ -22,6 +23,7 @@
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/nigamkartik96/general-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
 ## Depth-First Search
 |  |
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/nigamkartik96/general-questions/tree/master/0417-pacific-atlantic-water-flow) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/nigamkartik96/general-questions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
