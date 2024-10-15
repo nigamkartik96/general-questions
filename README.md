@@ -25,6 +25,7 @@
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/nigamkartik96/general-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
+| [3195-separate-black-and-white-balls](https://github.com/nigamkartik96/general-questions/tree/master/3195-separate-black-and-white-balls) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -51,4 +52,12 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/nigamkartik96/general-questions/tree/master/0424-longest-repeating-character-replacement) |
+## Two Pointers
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/nigamkartik96/general-questions/tree/master/3195-separate-black-and-white-balls) |
+## Greedy
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/nigamkartik96/general-questions/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
