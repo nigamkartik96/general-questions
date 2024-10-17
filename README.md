@@ -65,4 +65,12 @@
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nigamkartik96/general-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Math
+|  |
+| ------- |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nigamkartik96/general-questions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+## Simulation
+|  |
+| ------- |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nigamkartik96/general-questions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 <!---LeetCode Topics End-->
