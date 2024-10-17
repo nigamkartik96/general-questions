@@ -25,6 +25,7 @@
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/nigamkartik96/general-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nigamkartik96/general-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [3195-separate-black-and-white-balls](https://github.com/nigamkartik96/general-questions/tree/master/3195-separate-black-and-white-balls) |
 ## Depth-First Search
 |  |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [3195-separate-black-and-white-balls](https://github.com/nigamkartik96/general-questions/tree/master/3195-separate-black-and-white-balls) |
+## Stack
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nigamkartik96/general-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
