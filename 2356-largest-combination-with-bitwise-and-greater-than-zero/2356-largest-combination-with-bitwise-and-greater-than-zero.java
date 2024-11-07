@@ -7,9 +7,7 @@ class Solution {
         for (int candidate : candidates) {
             int pos = 1;
             while (candidate > 0) {
-                if (candidate % 2 == 1) {
-                    ans[pos]++;
-                }
+                ans[pos]+=candidate&1;
                 candidate = candidate >> 1;
                 pos++;
             }
