@@ -9,12 +9,14 @@
 | [0152-maximum-product-subarray](https://github.com/nigamkartik96/general-questions/tree/master/0152-maximum-product-subarray) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nigamkartik96/general-questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nigamkartik96/general-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nigamkartik96/general-questions/tree/master/0001-two-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/nigamkartik96/general-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nigamkartik96/general-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,4 +81,12 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/nigamkartik96/general-questions/tree/master/0812-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nigamkartik96/general-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Counting
+|  |
+| ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nigamkartik96/general-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 <!---LeetCode Topics End-->
