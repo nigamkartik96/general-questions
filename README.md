@@ -9,6 +9,7 @@
 | [0152-maximum-product-subarray](https://github.com/nigamkartik96/general-questions/tree/master/0152-maximum-product-subarray) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nigamkartik96/general-questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
+| [1940-maximum-xor-for-each-query](https://github.com/nigamkartik96/general-questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nigamkartik96/general-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Hash Table
 |  |
@@ -84,9 +85,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/nigamkartik96/general-questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nigamkartik96/general-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Counting
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nigamkartik96/general-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/nigamkartik96/general-questions/tree/master/1940-maximum-xor-for-each-query) |
 <!---LeetCode Topics End-->
