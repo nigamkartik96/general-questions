@@ -29,9 +29,9 @@ class Solution {
                 }
 
                 if (currLeft.right == curr) {
-                    currLeft.right = null;
                     count++;
-                    if (count == k) {return curr.val;};
+                    if (count == k) {return curr.val;}
+                    currLeft.right = null;
                     curr = curr.right;
                 } else {
                     currLeft.right = curr;
