@@ -9,6 +9,7 @@
 | [0152-maximum-product-subarray](https://github.com/nigamkartik96/general-questions/tree/master/0152-maximum-product-subarray) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nigamkartik96/general-questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nigamkartik96/general-questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1940-maximum-xor-for-each-query](https://github.com/nigamkartik96/general-questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nigamkartik96/general-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Hash Table
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nigamkartik96/general-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nigamkartik96/general-questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Binary Tree
 |  |
 | ------- |
