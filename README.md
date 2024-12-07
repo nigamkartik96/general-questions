@@ -31,6 +31,7 @@
 | [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/nigamkartik96/general-questions/tree/master/0812-rotate-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nigamkartik96/general-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/nigamkartik96/general-questions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nigamkartik96/general-questions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/nigamkartik96/general-questions/tree/master/3195-separate-black-and-white-balls) |
 ## Depth-First Search
@@ -75,6 +76,7 @@
 ## Math
 |  |
 | ------- |
+| [1885-count-number-of-homogenous-substrings](https://github.com/nigamkartik96/general-questions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nigamkartik96/general-questions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Simulation
 |  |
