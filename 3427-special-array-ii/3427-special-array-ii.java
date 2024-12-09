@@ -11,11 +11,9 @@ class Solution {
                 voilator[i] = voilator[i - 1];
             }
         }
-        int i = 0;
-        for (int[] query: queries) {
-            if (voilator[query[0]] == voilator[query[1]])
+        for (int i = 0; i < queries.length; i++) {
+            if (voilator[queries[i][0]] == voilator[queries[i][1]])
                 ans[i] = true;
-            i++;
         }
         return ans;
     }
