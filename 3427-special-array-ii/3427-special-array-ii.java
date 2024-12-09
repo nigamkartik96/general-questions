@@ -2,7 +2,6 @@ class Solution {
     public boolean[] isArraySpecial(int[] nums, int[][] queries) {
         boolean[] ans = new boolean[queries.length];
         int[] voilator = new int[nums.length];
-        Arrays.fill(voilator, 0);
 
         for (int i =  1; i < nums.length; i++) {
             if (nums[i - 1] % 2 == nums[i] % 2) {
