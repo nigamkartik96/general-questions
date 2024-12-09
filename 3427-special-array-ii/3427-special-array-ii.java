@@ -13,7 +13,9 @@ class Solution {
         }
         int i = 0;
         for (int[] query: queries) {
-            ans[i++] = (voilator[query[0]] == voilator[query[1]]);
+            if (voilator[query[0]] == voilator[query[1]])
+                ans[i] = true;
+            i++;
         }
         return ans;
     }
