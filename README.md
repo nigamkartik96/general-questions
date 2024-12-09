@@ -12,6 +12,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nigamkartik96/general-questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1940-maximum-xor-for-each-query](https://github.com/nigamkartik96/general-questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nigamkartik96/general-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3427-special-array-ii](https://github.com/nigamkartik96/general-questions/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/nigamkartik96/general-questions/tree/master/1940-maximum-xor-for-each-query) |
+| [3427-special-array-ii](https://github.com/nigamkartik96/general-questions/tree/master/3427-special-array-ii) |
 ## Tree
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nigamkartik96/general-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nigamkartik96/general-questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [3427-special-array-ii](https://github.com/nigamkartik96/general-questions/tree/master/3427-special-array-ii) |
 ## Binary Tree
 |  |
 | ------- |
