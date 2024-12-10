@@ -20,6 +20,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/nigamkartik96/general-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nigamkartik96/general-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nigamkartik96/general-questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [1885-count-number-of-homogenous-substrings](https://github.com/nigamkartik96/general-questions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nigamkartik96/general-questions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/nigamkartik96/general-questions/tree/master/3195-separate-black-and-white-balls) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nigamkartik96/general-questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/nigamkartik96/general-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nigamkartik96/general-questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +99,7 @@
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nigamkartik96/general-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nigamkartik96/general-questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -110,6 +114,7 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nigamkartik96/general-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nigamkartik96/general-questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nigamkartik96/general-questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/nigamkartik96/general-questions/tree/master/3427-special-array-ii) |
 ## Binary Tree
 |  |
