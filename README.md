@@ -12,6 +12,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nigamkartik96/general-questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1940-maximum-xor-for-each-query](https://github.com/nigamkartik96/general-questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nigamkartik96/general-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/nigamkartik96/general-questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/nigamkartik96/general-questions/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/nigamkartik96/general-questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Matrix
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/nigamkartik96/general-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/nigamkartik96/general-questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nigamkartik96/general-questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Two Pointers
 |  |
@@ -114,6 +117,7 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nigamkartik96/general-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nigamkartik96/general-questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/nigamkartik96/general-questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nigamkartik96/general-questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/nigamkartik96/general-questions/tree/master/3427-special-array-ii) |
 ## Binary Tree
