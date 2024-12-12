@@ -12,6 +12,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nigamkartik96/general-questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1940-maximum-xor-for-each-query](https://github.com/nigamkartik96/general-questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nigamkartik96/general-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/nigamkartik96/general-questions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/nigamkartik96/general-questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/nigamkartik96/general-questions/tree/master/3427-special-array-ii) |
 ## Hash Table
@@ -88,6 +89,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/nigamkartik96/general-questions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nigamkartik96/general-questions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## String Matching
 |  |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nigamkartik96/general-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/nigamkartik96/general-questions/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
