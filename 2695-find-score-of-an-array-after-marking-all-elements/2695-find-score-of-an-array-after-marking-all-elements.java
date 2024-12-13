@@ -36,7 +36,7 @@ class Solution {
                 set.add(pair.getIndex() - 1);
                 set.add(pair.getIndex() + 1);
                 set.add(pair.getIndex());
-                ans += (long) pair.getVal();
+                ans += pair.getVal();
             }
         }
 
