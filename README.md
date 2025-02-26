@@ -44,6 +44,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/nigamkartik96/general-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nigamkartik96/general-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nigamkartik96/general-questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0721-accounts-merge](https://github.com/nigamkartik96/general-questions/tree/master/0721-accounts-merge) |
@@ -117,6 +118,7 @@
 ## Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/nigamkartik96/general-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nigamkartik96/general-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -129,6 +131,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/nigamkartik96/general-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nigamkartik96/general-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Heap (Priority Queue)
 |  |
